@@ -38,15 +38,5 @@
   <!-- Git Icon -->
   <img src="https://user-images.githubusercontent.com/35739995/122655117-7c577180-d126-11eb-9b30-3591b1252bb5.png">&nbsp;
 </p>
-
-<table align="left">
-  <row>
-    <td>
-     <!-- Card -->
-      <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=eric949&theme=dark'>
-    </td>
-    <td>
-      <img height='172' src='https://github-readme-stats.vercel.app/api?username=eric949&show_icons=true&theme=dark&include_all_commits=true&count_private=true'>
-    </td>
-  </row>
-</table> 
+<img align="left" height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=eric949&theme=dark'>
+<img align="right" height='172' src='https://github-readme-stats.vercel.app/api?username=eric949&show_icons=true&theme=dark&include_all_commits=true&count_private=true'>
